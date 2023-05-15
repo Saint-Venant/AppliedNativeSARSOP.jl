@@ -1,4 +1,4 @@
-module NativeSARSOP
+module AppliedNativeSARSOP
 
 using POMDPs
 using POMDPTools

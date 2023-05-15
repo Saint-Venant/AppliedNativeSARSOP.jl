@@ -1,6 +1,6 @@
-name = "NativeSARSOP"
-uuid = "a07c76ea-660d-4c9a-8028-2e6dbd212cb8"
-authors = ["Tyler Becker <Tyler.Becker-1@colorado.edu>", "Qi Heng Ho <qi.ho@colorado.edu>"]
+name = "AppliedNativeSARSOP"
+uuid = "47463e9f-77f0-4ae1-8c5e-55bbabe2b75a"
+authors = ["Matthieu Roux <matthieu.roux@centralesupelec.fr>", "Tyler Becker <Tyler.Becker-1@colorado.edu>", "Qi Heng Ho <qi.ho@colorado.edu>"]
 version = "0.1.0"
 
 [deps]
