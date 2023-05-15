@@ -28,3 +28,7 @@ Manifest.toml
 *.out
 
 extra/
+
+# Scripts used as shortcuts to run applications
+open_git_bash.lnk
+open_cmd_prompt.lnk
