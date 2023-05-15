@@ -1,7 +1,7 @@
 name = "AppliedNativeSARSOP"
-uuid = "47463e9f-77f0-4ae1-8c5e-55bbabe2b75a"
+uuid = "7d2d7113-a6e2-4323-be53-22784c9d2988"
 authors = ["Matthieu Roux <matthieu.roux@centralesupelec.fr>", "Tyler Becker <Tyler.Becker-1@colorado.edu>", "Qi Heng Ho <qi.ho@colorado.edu>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"

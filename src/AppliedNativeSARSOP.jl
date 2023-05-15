@@ -5,7 +5,7 @@ using POMDPTools
 using SparseArrays
 using LinearAlgebra
 
-export SARSOPSolver, SARSOPTree
+export SARSOPSolver, SARSOPTree, solve_applied
 
 include("sparse_tabular.jl")
 include("fib.jl")
